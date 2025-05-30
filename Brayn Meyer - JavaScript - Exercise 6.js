@@ -9,7 +9,7 @@ function add(a, b){
     return a + b
 }
 // TODO: Call both functions and store their results in variables
-greetresults = greet("Brayn")
-sumresults = add(5, 7)
+let greetresults = greet("Brayn")
+let sumresults = add(5, 7)
 // TODO: Print the results to the console
 console.log(`${greetresults}, ${sumresults}`)
